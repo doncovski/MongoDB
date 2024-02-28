@@ -1,2 +1,2 @@
 # MongoDB
-# MySQL Queries and scripts for MySQL
+Queries and scripts for MongoDB
